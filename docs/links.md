@@ -37,7 +37,7 @@ sidebar: auto
 | starrywintersky | [备忘录](http://wintersky.xyz/privatenotes/) | Hexo | [NexT](https://github.com/theme-next/hexo-theme-next/) |
 | ClariS | [说说](https://silkyheart.moe/talk/) | Hexo | [Shoka](https://github.com/amehime/hexo-theme-shoka) |
 | Dongzhi.| [自言自语](https://xiaocq.top/artitalk/) | Hexo | [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) |
-
+| усил| [说说](https://haohaostudy.xyz/shuoshuo/) | Hexo | [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) |
 ## 如何加入成功案例
 
 编辑 [成功案例](https://github.com/ArtitalkJS/docs/edit/master/docs/links.md)，在上面表格添加然后 PR，请自觉往下填写
